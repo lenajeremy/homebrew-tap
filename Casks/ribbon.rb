@@ -1,6 +1,6 @@
 cask "ribbon" do
-  version "3.20"
-  sha256 "9f485794462b49d8b20c0cc2e36a8726325ba33b6e2cbe8d6388d57fd1992fc1"
+  version "3.21"
+  sha256 "ca23844f4a6a1a4ddd4b0fbace80700e3a213ad17ec54fde96a7664f97f0163b"
 
   url "https://github.com/lenajeremy/ribbon/releases/download/v#{version}/Ribbon.dmg"
   name "Ribbon"
